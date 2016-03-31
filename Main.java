@@ -17,7 +17,7 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         Fibonacci fb = new Fibonacci();
-        fb.setInput(5);
+        fb.setInput(7);
         
         fb.getHasil();
     }
