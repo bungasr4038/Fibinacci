@@ -10,7 +10,7 @@ public class DeretFibonacci {
 
        public static void main(String[] args) {
         Scanner input = new Scanner (System.in);
-        
+        System.out.pritln("Syukur Zay Edit")
         System.out.println("Input Angka : ");
         int num = input.nextInt();
         long fibo[] = new long[num];
